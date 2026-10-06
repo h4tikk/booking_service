@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client_name: MyString
+  phone_number: MyString
+  start: 2026-10-03 14:36:33
+  end: 2026-10-03 14:36:33
+  cost: 1
+
+two:
+  client_name: MyString
+  phone_number: MyString
+  start: 2026-10-03 14:36:33
+  end: 2026-10-03 14:36:33
+  cost: 1
